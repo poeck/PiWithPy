@@ -1,6 +1,10 @@
 # Pi with Py
 
-The probably easiest way to calculate Pi, written inside Python.
+*The probably easiest way to calculate Pi (Monte-Carlo-Simulation), written inside Python.*
+
+The most important is explained in the comments. If you want to learn more about this method, see [this.](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation)
+
+![Showcase](https://imgur.com/VJJOEBM.png)
 
 ## Disclaimer
 
