@@ -4,7 +4,7 @@ import random
 # Count of points which should be calculated
 # Increase the get a more precise result
 # Too high values may crash the program
-points = 1000
+points = 1000000
 
 # Count of points inside the unit circle
 # If a random point is inside the unit circle,
